@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ****
 - 🌱 I’m currently learning React.js
-- 📫 How to reach me: [[https://www.instagram.com/agilsulapohan]]
+- 📫 How to reach me: [instagram](https://www.instagram.com/agilsulapohan)
 - 😄 Pronouns: he/him
