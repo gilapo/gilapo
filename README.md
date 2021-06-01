@@ -1,4 +1,4 @@
-### Hi there! Agil here <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="30px" height="30px"/>
+### Yo! Welcome to my playground  <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="20px" height="20px"/>
 
 <!--
 **gilapo/gilapo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on ****
+- 🌱 I’m currently learning React.js
+- 📫 How to reach me: [[https://www.instagram.com/agilsulapohan]]
+- 😄 Pronouns: he/him
