@@ -1,4 +1,4 @@
-### Hi there Agil here <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="30px" height="30px"/>
+### Hi there! Agil here <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="30px" height="30px"/>
 
 <!--
 **gilapo/gilapo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
