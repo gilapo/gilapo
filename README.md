@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on ****
-- 🌱 I’m currently learning React.js
-- 📫 How to reach me: [instagram](https://www.instagram.com/agilsulapohan)
+- 🌱 I’m currently learning Javascript to the bone 🦴
+- 📫 How to reach me: [instagram](https://www.instagram.com/agilsulapohan), or Twitter [@penelitiBakTruk](https://twitter.com/penelitiBakTruk)
 - 😄 Pronouns: he/him
